@@ -14,4 +14,8 @@ Each of the following folders contains the kit schematics and the kit graphics (
 
 Complementary information (screenshots) are available in 'images' folder.
 
+Don't hesitate to share the QR codes to your peers for faster access!
+
+![https://github.com/AtmelUniversityFrance/StartupWeekendAixMarseille_201610/blob/master/qr_links/QR_PPT_SWAM_october2016_MCHP.svg](https://github.com/AtmelUniversityFrance/StartupWeekendAixMarseille_201610/blob/master/qr_links/QR_PPT_SWAM_october2016_MCHP.svg)
+
 Happy making!!!
