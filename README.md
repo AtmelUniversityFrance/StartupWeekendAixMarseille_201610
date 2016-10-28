@@ -16,6 +16,6 @@ Complementary information (screenshots) are available in 'images' folder.
 
 Don't hesitate to share the QR codes to your peers for faster access!
 
-![qr_links/QR_PPT_SWAM_october2016_MCHP.png](QR_PPT_SWAM_october2016_MCHP.svg "Take a look in qr_links folder")
+![QR_PPT_SWAM_october2016_MCHP.svg](qr_links/QR_PPT_SWAM_october2016_MCHP.png "Take a look in qr_links folder")
 
 Happy making!!!
